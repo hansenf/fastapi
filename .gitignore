@@ -7,3 +7,5 @@ blog/__pycache__
 .gitignore
 app/.deta
 app/blog/__pycache__
+env
+.deta
